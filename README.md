@@ -7,33 +7,32 @@
 
 ---
 
-## 🚀 عني (Brief Intro)
-أهلاً بكم في عالمي الرقمي! أنا **عبد الله محمد**، طالب في الصف الثاني الثانوي من قلب **القاهرة الجديدة، مصر** 🇪🇬. عمري 18 عاماً، وأعيش بين أسطر الأكواد وجدران الحماية الرقمية.
+## 🚀 About Me
+Hello! I'm **Abdullah Mohamed**, an 18-year-old high school student (2nd secondary) living in **New Cairo, Egypt** 🇪🇬. I spend my time exploring the deep world of code and digital defense.
 
-- 🛡️ **شغفي:** الأمن السيبراني ونظم حماية المعلومات (أحب أن أكون الدرع الذي يحمي البيانات).
-- 💻 **مهاراتي:** تطوير البرمجيات والتطبيقات بلمسة فنية في التصميم.
-- 🎯 **هدفي:** أن أكون واحداً من أعظم مطوري البرمجيات وخبراء الأمن السيبراني عالمياً.
-- 🎓 **حلمي القريب:** الالتحاق بكلية الحاسبات والمعلومات والانطلاق نحو الاحتراف.
-
----
-
-## 🛠️ صندوق الأدوات (Tech Stack)
-- **الأمن:** Network Security, Pentesting (Learning), System Hardening.
-- **التطوير:** Web Development, Logic Building, Problem Solving.
-- **التصميم:** UI/UX Principles & Creative Graphics.
+- 🛡️ **My Passion:** Cybersecurity, protection systems, and information security. I love being the shield that secures the digital world.
+- 💻 **Skills:** Software and application development, with a creative touch in graphic design.
+- 🎯 **The Goal:** To become one of the greatest software developers and cybersecurity experts in the world.
+- 🎓 **Future Path:** My eyes are set on the Faculty of Computers and Information to turn my passion into a professional career.
 
 ---
 
-## 🎮 الجانب الآخر من حياتي (Hobbies)
-بعيداً عن الشاشات السوداء والأكواد المعقدة:
-- 🕹️ **Gamer:** أعشق الألعاب الإلكترونية التي تتطلب ذكاءً وتخطيطاً.
-- 🏆 **المنافسات:** أحب التحديات البرمجية (Competitive Programming) والمسابقات التي تخرج أفضل ما لدي.
-- 💡 **الإلهام:** أتابع عن كثب عمالقة هندسة البرمجيات وأمن المعلومات لأتعلم من تجاربهم.
-- 😂 **الكوميديا:** أؤمن بأن "الضحك" هو أفضل حل للـ `Bug` الذي لا يريد أن ينتهي! 
+## 🛠️ My Toolbox (Tech Stack)
+- **Security:** Network Security, System Hardening, and Pentesting (Current Path).
+- **Development:** Software logic, building applications, and problem-solving.
+- **Design:** Creating visually appealing and user-friendly interfaces.
 
 ---
 
-## 📈 إحصائيات جيت هاب (GitHub Stats)
+## 🎮 Beyond the Screen (Hobbies & Interests)
+- 🕹️ **Pro Gamer:** I love video games that challenge my strategy and reflexes.
+- 🏆 **Competitions:** I enjoy coding challenges and creative hackathons.
+- 💡 **Inspiration:** I constantly follow world-class software engineers and security experts to stay ahead of the curve.
+- 😂 **Sense of Humor:** I enjoy a good laugh and funny situations—coding is much better with a bit of comedy!
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&langs_count=7&theme=radical"/>
@@ -41,8 +40,8 @@
 
 ---
 
-## 🤝 دعنا نتواصل (Connect with me)
-يسعدني دائماً التعرف على أشخاص مبدعين ومشاركة الأفكار!
+## 🤝 Let's Connect
+I'm always open to discussing new projects, security trends, or even just sharing a good joke!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -53,4 +52,4 @@
 
 ---
 
-> "التشفير ليس مجرد كود، بل هو فن حماية المستقبل." 🔒✨
+> "Encryption isn't just code; it's the art of protecting the future." 🔒✨ 
