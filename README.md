@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-Hello! I'm **Abdullah Mohamed**, an 18-year-old high school student (2nd secondary) living in **New Cairo, Egypt** 🇪🇬. I spend my time exploring the deep world of code and digital defense.
+Hello! I'm **Abdullah Mohamed**, an 18-year-old high school student (Second year of secondary school) living in **New Cairo, Egypt** 🇪🇬. I spend my time exploring the deep world of code and digital defense.
 
 - 🛡️ **My Passion:** Cybersecurity, protection systems, and information security. I love being the shield that secures the digital world.
 - 💻 **Skills:** Software and application development, with a creative touch in graphic design.
